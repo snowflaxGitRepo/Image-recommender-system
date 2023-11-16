@@ -1,0 +1,7 @@
+tensorflow
+tqdm
+Pillow
+streamlit
+scikit-learn
+scipy
+matplotlib
