@@ -1,6 +1,6 @@
-# FAQ Bot PDF Langchain,FAISS index and GPT -
+# Fashin Image Recommender Bot.  Deep Learning Image Recommender System with ResNet50
 
-Deep Learning Image Recommender System with ResNet50
+The goal of this project is to create a sophisticated image recommender system that leverages the power of deep learning. The system utilizes the ResNet50 architecture, a deep convolutional neural network, to extract meaningful features from images and provide accurate recommendations.
 
 [Open Notebook](https://github.com/snowflaxGitRepo/chatgpt-pdf/blob/main/README.ipynb)
 
